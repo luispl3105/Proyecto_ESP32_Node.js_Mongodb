@@ -1,0 +1,27 @@
+{
+  sensorKey: 'ESP32_001',
+  distance: 33,
+  timestamp: '2025-03-17 21:51:25',
+  latitude: 19.4326,
+  longitude: -99.1332,
+  _id: new ObjectId('67d8ed656cfd2f9962f8b62b'),
+  __v: 0
+}
+Documento insertado: {
+  sensorKey: 'ESP32_001',
+  distance: 33,
+  timestamp: '2025-03-17 21:51:35',
+  latitude: 19.4326,
+  longitude: -99.1332,
+  _id: new ObjectId('67d8ed6f6cfd2f9962f8b62d'),
+  __v: 0
+}
+Documento insertado: {
+  sensorKey: 'ESP32_001',
+  distance: 7,
+  timestamp: '2025-03-17 21:51:51',
+  latitude: 19.4326,
+  longitude: -99.1332,
+  _id: new ObjectId('67d8ed7f6cfd2f9962f8b62f'),
+  __v: 0
+}
